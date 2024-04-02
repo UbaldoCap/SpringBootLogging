@@ -1,0 +1,48 @@
+2024-04-02 18:24:08,863 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - Starting SpringBootLoggingApplication using Java 21.0.2 with PID 3644 (C:\Users\uby17\Desktop\Spring Boot\SpringBootLogging\target\classes started by uby17 in C:\Users\uby17\Desktop\Spring Boot\SpringBootLogging)
+2024-04-02 18:24:08,866 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-02 18:24:08,911 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02 18:24:08,911 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02 18:24:09,741 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-02 18:24:09,753 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-02 18:24:09,755 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-02 18:24:09,755 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02 18:24:09,785 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-02 18:24:09,786 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 782 ms
+2024-04-02 18:24:10,030 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-04-02 18:24:10,038 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-02 18:24:10,054 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-02 18:24:10,063 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 1.552 seconds (process running for 1.908)
+2024-04-02 18:24:19,103 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-02 18:24:19,103 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-02 18:24:19,104 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-02 18:24:19,132 [http-nio-8080-exec-1] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:24:19,445 [http-nio-8080-exec-2] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:24:19,833 [http-nio-8080-exec-3] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:27,980 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - Starting SpringBootLoggingApplication using Java 21.0.2 with PID 9460 (C:\Users\uby17\Desktop\Spring Boot\SpringBootLogging\target\classes started by uby17 in C:\Users\uby17\Desktop\Spring Boot\SpringBootLogging)
+2024-04-02 18:25:27,983 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+2024-04-02 18:25:28,024 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-02 18:25:28,025 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-02 18:25:28,787 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-04-02 18:25:28,795 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-04-02 18:25:28,797 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-04-02 18:25:28,798 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-04-02 18:25:28,829 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-04-02 18:25:28,830 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 804 ms
+2024-04-02 18:25:29,091 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-04-02 18:25:29,102 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-04-02 18:25:29,119 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+2024-04-02 18:25:29,127 [restartedMain] INFO  c.e.S.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 1.504 seconds (process running for 1.855)
+2024-04-02 18:25:35,113 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-04-02 18:25:35,113 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-04-02 18:25:35,114 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-04-02 18:25:35,143 [http-nio-8080-exec-1] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:35,403 [http-nio-8080-exec-2] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:35,721 [http-nio-8080-exec-3] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,028 [http-nio-8080-exec-4] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,282 [http-nio-8080-exec-5] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,414 [http-nio-8080-exec-6] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,553 [http-nio-8080-exec-7] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,696 [http-nio-8080-exec-8] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:36,827 [http-nio-8080-exec-9] INFO  c.e.S.controllers.HomeController - this is the message: Welcome
+2024-04-02 18:25:43,503 [http-nio-8080-exec-2] DEBUG c.e.S.services.HomeService - inizio calcolo
+2024-04-02 18:25:43,503 [http-nio-8080-exec-2] DEBUG c.e.S.services.HomeService - fine calcolo
